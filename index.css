@@ -5,9 +5,9 @@ html{
     font-family: sans-serif;
 }
 body {
-    background-color: white;
+    background-color: grey;
     background-image: url("effiel.jpg");
-background-size: 550px 550px;
+background-size: 600px 600px;
 background-repeat: no-repeat;
 }
 ul {
